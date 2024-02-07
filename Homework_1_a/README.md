@@ -42,7 +42,7 @@ The following steps should be followed:
 **Prompt Design**: Design a prompt to ask ChatGPT API to answer questions only from the given paragraph(s) from 1. (30 pts) \
 **Q/A**: Design 5 questions based on the paragraph. Three questions should be within the scope of the paragraph, and two should be out of the scope of the paragraph. (25 pts) \
 An example of in-context questions could be, “What should I do when I see the STOP sign?”
-Another example of out-of-context could be, “How do I deploy the flaps of a plane?” 
+Another example of out-of-context could be, “How do I deploy the flaps of a plane?” \ 
 **Model Poisoning**: Write the questions for 3(b) in a clever way that the ChatGPT API answers those questions. (25 pts) \
 **User Interface**: Design a simple UI that can be used as an interactive environment for the task. (10 pts) \
 **Sample input-output**:
