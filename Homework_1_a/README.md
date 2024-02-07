@@ -10,12 +10,12 @@
 
 ## 3. Create Env File:
 
-**touch .env** (feel free to use any text editor you are comfortable with)
-**vim .env**
-**i** (enter insert mode for text editing)
-**OPENAI_API_KEY=<ADD YOUR API KEY HERE>**
-**Esc** (exit insert mode)
-**:wq** command mode, write, quit
+**touch .env** (feel free to use any text editor you are comfortable with) \
+**vim .env** \
+**i** (enter insert mode for text editing) \
+**OPENAI_API_KEY=<ADD YOUR API KEY HERE>** \
+**Esc** (exit insert mode) \
+**:wq** command mode, write, quit \
 
 ## 4. Clone Project Repo:
 
