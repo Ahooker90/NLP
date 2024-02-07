@@ -49,7 +49,7 @@ Another example of out-of-context could be, “How do I deploy the flaps of a pl
 
 **User**: Input (1),
 
-****User**: Write the prompt (2)
+**User**: Write the prompt (2)
 
 **User**:  Ask Q1 (3)
 
