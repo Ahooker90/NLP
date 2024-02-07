@@ -47,17 +47,17 @@ Another example of out-of-context could be, “How do I deploy the flaps of a pl
 **User Interface**: Design a simple UI that can be used as an interactive environment for the task. (10 pts)
 **Sample input-output**:
 
-**User**: <Input> (1),
+**User**: Input (1),
 
-****User**: <Write the prompt> (2)
+****User**: Write the prompt (2)
 
-**User**:  <Ask Q1> (3)
+**User**:  Ask Q1 (3)
 
-**ChatGPT**: <Answer to Q1>.
+**ChatGPT**: Answer to Q1.
 
-**User**: <Poisoning Question> (4)
+**User**: Poisoning Question (4)
 
-**ChatGPT**: <Response>
+**ChatGPT**: Response
 
  
 
